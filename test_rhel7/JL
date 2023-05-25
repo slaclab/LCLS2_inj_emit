@@ -1,0 +1,2 @@
+source /usr/local/lcls/package/anaconda/envs/python3.9envs/rhel7_test/bin/activate
+jupyter lab --no-browser --port 9998
